@@ -1,0 +1,19 @@
+{
+  "name": "Helionyx AppStore",
+  "identifier": "Helionyx.betastore",
+  "apps": [
+    {
+      "name": "Snapcard",
+      "bundleIdentifier": "Helionyx.Snapcard",
+      "developerName": "Philipp Diesler",
+      "version": "1.0",
+      "versionDate": "2025-12-15",
+      "versionDescription": "First confidential beta release for internal testers.",
+      "downloadURL": "https://raw.githubusercontent.com/PhilSpieltLOL/Snapcard-iOS/main/Payload.ipa",
+      "localizedDescription": "Snapcard – Studying all day is from yesterday!",
+      "iconURL": "https://raw.githubusercontent.com/PhilSpieltLOL/Snapcard-iOS/main/AppIcon-iOS-Default-1024x1024%401x.png",
+      "tintColor": "#f639da",
+      "size": 23424768
+    }
+  ]
+}
